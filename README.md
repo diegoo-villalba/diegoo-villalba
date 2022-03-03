@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋!! My name is Diego Villalba</h1>
-<h3 align="center">, I'm from Argentina and I'm a Junior FullStack Developer</h3>
+<h3 align="center">I'm from Argentina and I'm a Junior FullStack Developer</h3>
 
 - 🔭 I’m currently working on [cUberfy](https://github.com/diegoo-villalba/cUberfy)
 
