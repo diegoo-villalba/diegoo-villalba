@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋!! My name is Diego Villalba</h1>
 <h3 align="center">I'm from Argentina and I'm a Junior FullStack Developer</h3>
 
-- 🔭 I’m currently working on [cUberfy](https://github.com/diegoo-villalba/cUberfy)
+- 🔭 I’m currently working on [springProject](https://github.com/diegoo-villalba/springProject)
 
 - 🌱 I’m currently learning **Spring, Hibernate and React**
 
