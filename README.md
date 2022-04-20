@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋!! My name is Diego Villalba</h1>
 <h3 align="center">I'm from Argentina and I'm a Junior FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Bootcamp_Finnegans](https://github.com/diegoo-villalba/crisalis-system)
+- 🔭 I’m currently working on [First API Rest](https://github.com/diegoo-villalba/firstAPIRest)
 
 - 🌱 I’m currently learning **Spring, Hibernate and React**
 
