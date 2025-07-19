@@ -21,8 +21,7 @@ Currently exploring generative AI tools (AWS Bedrock) and expanding my skills in
 - Node.js
 
 📫 **How to reach me:**  
-- Email: **diegoo.villalba@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/villalba-diego/)
+- Email: **diegoo.villalba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
