@@ -50,7 +50,3 @@ Currently exploring generative AI tools (AWS Bedrock) and expanding my skills in
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoo-villalba&show_icons=true&locale=en&layout=compact" alt="diegoo-villalba" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoo-villalba&show_icons=true&locale=en" alt="diegoo-villalba" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoo-villalba&show_icons=true&locale=en&layout=compact" alt="diegoo-villalba" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoo-villalba&show_icons=true&locale=en" alt="diegoo-villalba" /></p>
