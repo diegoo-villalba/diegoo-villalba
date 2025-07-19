@@ -17,7 +17,7 @@ Currently exploring generative AI tools (AWS Bedrock) and expanding my skills in
 - Microservice architecture best practices  
 - AI tools applied to real-world development
 
-- 🧭 **Up Next:**  
+🧭 **Up Next:**  
 - Node.js
 
 📫 **How to reach me:**  
